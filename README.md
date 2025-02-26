@@ -1,1 +1,1 @@
-# .github
+# [Borea](https://borea.dev)
